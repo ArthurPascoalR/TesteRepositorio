@@ -5,11 +5,11 @@ mollis bibendum ut quis purus. Proin neque quam, efficitur vitae iaculis sed, eu
 
 Curabitur vehicula condimentum erat sed tincidunt. Donec 
 rutrum, 
-urna in tempor hendrerit, metus urna aliquam ex, 
-Nova commit
-Alterando texto
-Teste
-Alterando texto2 Quisque ut sem orci. Fusce commodo, ligula eget convallis tempus, purus odio pellentesque
+testando erro de merge urna in tempor hendrerit, metus urna aliquam ex, 
+Nova commit testando erro de merge
+Alterando texto testando erro de merge
+Teste testando erro de merge
+Alterando texto2 testando erro de merge Quisque ut sem orci. Fusce commodo, ligula eget convallis tempus, purus odio pellentesque
  justo, ut rhoncus tellus dui id sapien. Proin fermentum mauris eros, sit amet porta metus cursus nec. Nam in ornare metus.
 
 Sed ac pellentesque nisi. Aliquam erat volutpat. Duis vitae dui
@@ -18,8 +18,8 @@ Sed ac pellentesque nisi. Aliquam erat volutpat. Duis vitae dui
   Mauris lobortis, purus nec fermentum sollicitudin
   , est mauris sodales orci, id efficitur mi eros in diam. 
   Pellentesque eleifende, para com purus eu rhoncus scelerisque, 
-  tellus para ligula elementali parile elementum nulla, et hendrerit lacus odio
-   imperdivel magnata. Mauriseia facilisis, ligula sed vestibulum eleifend, sem nisi ultricies eros, at tempo
-  rua augue metus a elite do futebol. Nullam euismod augue eu ipsum efficitur, ac aliquet ex accumsan. Nulla non accumsan justo. Donec interdum tempus felis, eu pretium purus
-   rhoncus crack pocus nect backt. 
-  tava no Morbi com et nulla sed sem sodales vulputate eu semper neque. Quisque blandit tellus ac ipsum congue bibendum.
+nesse chão molhado  tellus para ligula elementali parile elementum nulla, et hendrerit lacus odio
+pisando descalço   imperdivel magnata. Mauriseia facilisis, ligula sed vestibulum eleifend, sem nisi ultricies eros, at tempo
+lorem ipsum dolor  rua augue metus a elite do futebol. Nullam euismod augue eu ipsum efficitur, ac aliquet ex accumsan. Nulla non accumsan justo. Donec interdum tempus felis, eu pretium purus
+testando testando    rhoncus crack pocus nect backt. 
+  tava no lalalalalala Morbi com et nulla sed sem sodales vulputate eu semper neque. Quisque blandit tellus ac ipsum congue bibendum.
