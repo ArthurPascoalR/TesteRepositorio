@@ -6,12 +6,12 @@ Bom dia
  leo augue sodales leo, et fringilla magna ante vel turpis. Praesent quis tempor leo.
 
 Praesent aliquam augue accumsan, varius nulla quis, bibendum orci. 
-
-lorem ipsum novo
-alterei a linha testando erro
-TESTANDO
-Cras eleifend, dolor quis aliquet posuere, metus velit tincidunt odio, vel egestas est lacus eget nulla. Donec venenatis sapien vitae nisl fringilla, ut consequat mi posuere. 
-Praesent venenatis suscipit eros a rutrum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut dolor leo, elementum at mauris sed, mollis sodales lorem. Nunc vel mattis orci.
+como esse cara muda um negocio que nao existe
+lorem de ipsum no novo mundo paulistano
+alterei a linha 57 meia dois virgula catar testando erro
+TESTANDO mais vezes com isso
+Crase é inuil na lingua portuga eleifend, dolor quis aliquet posuere, metus velit tincidunt odio, vel egestas est lacus eget nulla. Donec venenatis sapien vitae nisl fringilla, ut consequat mi posuere. 
+sansung brothers forever and ever Praesent venenatis suscipit eros a rutrum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut dolor leo, elementum at mauris sed, mollis sodales lorem. Nunc vel mattis orci.
 
 Morbi porta, eros nec tristique mollis, orci ex finibus diam, a laoreet purus felis id erat. 
 Morbi molestie quam ac arcu tristique facilisis. Sed pulvinar arcu lacus, eget hendrerit lorem hendrerit a. Nulla quis dui luctus, rutrum mi at, aliquet dui. 
